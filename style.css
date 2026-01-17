@@ -1,0 +1,57 @@
+*{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: white;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1592210454359-9043f067919b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.input{
+    padding: 0 20px;
+    width: 90%;
+    height: 65px;
+    padding: auto;
+    background: white;
+    border: white 2px solid;
+    border-radius: 10px;
+    text-transform: capitalize;
+    text-overflow: ellipsis;
+    font-style: italic;
+    font-size: 25px;  
+    margin-bottom: 50px; 
+    margin-left: 100px; 
+    color: black;
+}
+.city{
+    font-size: 60px;
+    text-align: center;
+}
+.date{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    font-weight: 800;
+}
+.gradus{
+    width: 400px;
+    height: auto;
+    padding: 30px;
+    text-align: center;
+    font-size: 100px;
+    border: 2px solid white;
+    margin: auto;
+    border-radius: 10px;
+    transform: translateY(-20px);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.2);
+    background-attachment: local;
+    margin-top: 60px;
+}
+.holat{
+    margin-top: 20px;
+    font-size: 60px;
+    text-align: center;
+}
