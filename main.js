@@ -34,7 +34,7 @@ function fetchWeather(city) {
         })
         .catch(error => {
             console.error('Error fetching weather:', error);
-            alert('City not found or error occurred.');
+            alert('Shahar topilmadi');
         });
 }
 
